@@ -1,0 +1,274 @@
+{
+  "coches": [
+    {
+      "id": "1",
+      "marca": "Toyota",
+      "modelo": "Camry",
+      "descripcion": "Sedán familiar con estilo moderno y tecnología avanzada.",
+      "potencia": "203 hp",
+      "precio": "$25,000",
+      "imagen": "./img/toyota-camry-removebg-preview.png"
+    },
+    {
+      "id": "16",
+      "marca": "Toyota",
+      "modelo": "Rav4",
+      "descripcion": "SUV compacto con diseño audaz y características todoterreno.",
+      "potencia": "203 hp",
+      "precio": "$28,000",
+      "imagen": "./img/RAV4_HERO.png"
+    },
+    {
+      "id": "2",
+      "marca": "Honda",
+      "modelo": "Civic",
+      "descripcion": "Compacto eficiente con un diseño deportivo y características de seguridad.",
+      "potencia": "158 hp",
+      "precio": "$22,500",
+      "imagen": "./img/honda-civic-removebg-preview.png"
+    },
+    {
+      "id": "17",
+      "marca": "Honda",
+      "modelo": "CR-V",
+      "descripcion": "SUV versátil con amplio espacio interior y tecnología avanzada.",
+      "potencia": "190 hp",
+      "precio": "$31,000",
+      "imagen": "./img/honda-crv.png"
+    },
+    {
+      "id": "3",
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "descripcion": "Muscle car icónico con un potente motor y estilo clásico.",
+      "potencia": "450 hp",
+      "precio": "$38,000",
+      "imagen": "./img/ford_mustang-removebg-preview.png"
+    },
+    {
+      "id": "18",
+      "marca": "Ford",
+      "modelo": "Escape",
+      "descripcion": "SUV con diseño moderno y eficiencia de combustible.",
+      "potencia": "181 hp",
+      "precio": "$27,500",
+      "imagen": "./img/ford-escape.png"
+    },
+    {
+      "id": "4",
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "descripcion": "Deportivo con líneas agresivas y rendimiento emocionante.",
+      "potencia": "275 hp",
+      "precio": "$30,000",
+      "imagen": "./img/chevrolet-camaro.png"
+    },
+    {
+      "id": "19",
+      "marca": "Chevrolet",
+      "modelo": "Equinox",
+      "descripcion": "SUV crossover con estilo moderno y tecnología avanzada.",
+      "potencia": "170 hp",
+      "precio": "$28,500",
+      "imagen": "./img/chevrolet-equinox.png"
+    },
+    {
+      "id": "5",
+      "marca": "BMW",
+      "modelo": "X5",
+      "descripcion": "SUV de lujo con amplio espacio interior y tecnología avanzada.",
+      "potencia": "335 hp",
+      "precio": "$60,000",
+      "imagen": "./img/bmw_x5-removebg-preview.png"
+    },
+    {
+      "id": "20",
+      "marca": "BMW",
+      "modelo": "3 Series",
+      "descripcion": "Sedán elegante con rendimiento dinámico y tecnología innovadora.",
+      "potencia": "255 hp",
+      "precio": "$42,000",
+      "imagen": "./img/bmw-series3.png"
+    },
+    {
+      "id": "6",
+      "marca": "Mercedes-Benz",
+      "modelo": "C-Class",
+      "descripcion": "Sedán elegante con detalles de lujo y rendimiento impresionante.",
+      "potencia": "255 hp",
+      "precio": "$45,000",
+      "imagen": "./img/mercedes_c-class-removebg-preview.png"
+    },
+    {
+      "id": "21",
+      "marca": "Mercedes-Benz",
+      "modelo": "GLC",
+      "descripcion": "SUV de lujo con diseño sofisticado y tecnología avanzada.",
+      "potencia": "255 hp",
+      "precio": "$55,000",
+      "imagen": "./img/mercedes-glc.png"
+    },
+    {
+      "id": "7",
+      "marca": "Audi",
+      "modelo": "A4",
+      "descripcion": "Sedán premium con un interior sofisticado y tecnología innovadora.",
+      "potencia": "201 hp",
+      "precio": "$38,500",
+      "imagen": "./img/audi-a4-removebg-preview.png"
+    },
+    {
+      "id": "22",
+      "marca": "Audi",
+      "modelo": "Q5",
+      "descripcion": "SUV premium con diseño elegante y rendimiento potente.",
+      "potencia": "248 hp",
+      "precio": "$48,000",
+      "imagen": "./img/audi-q5.png"
+    },
+    {
+      "id": "8",
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "descripcion": "Hatchback versátil con un equilibrio entre rendimiento y eficiencia.",
+      "potencia": "147 hp",
+      "precio": "$23,000",
+      "imagen": "./img/vw-golf-removebg-preview.png"
+    },
+    {
+      "id": "23",
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "descripcion": "SUV compacto con estilo moderno y tecnología intuitiva.",
+      "potencia": "184 hp",
+      "precio": "$26,500",
+      "imagen": "./img/vw-tiguan.png"
+    },
+    {
+      "id": "9",
+      "marca": "Tesla",
+      "modelo": "Model 3",
+      "descripcion": "Sedán eléctrico con autonomía impresionante y rendimiento rápido.",
+      "potencia": "283 hp",
+      "precio": "$45,000",
+      "imagen": "./img/tesla-model3-removebg-preview.png"
+    },
+    {
+      "id": "24",
+      "marca": "Tesla",
+      "modelo": "Model Y",
+      "descripcion": "SUV eléctrico con espacio para la familia y tecnología avanzada.",
+      "potencia": "315 hp",
+      "precio": "$55,000",
+      "imagen": "./img/tesla-modelY.png"
+    },
+    {
+      "id": "10",
+      "marca": "Nissan",
+      "modelo": "Altima",
+      "descripcion": "Sedán familiar con características de seguridad avanzadas y eficiencia.",
+      "potencia": "188 hp",
+      "precio": "$27,500",
+      "imagen": "./img/nissan-altima-removebg-preview.png"
+    },
+    {
+      "id": "25",
+      "marca": "Nissan",
+      "modelo": "Rogue",
+      "descripcion": "SUV crossover con diseño moderno y tecnología intuitiva.",
+      "potencia": "170 hp",
+      "precio": "$28,000",
+      "imagen": "./img/nissan-rogue.png"
+    },
+    {
+      "id": "11",
+      "marca": "Hyundai",
+      "modelo": "Tucson",
+      "descripcion": "SUV compacto con diseño moderno y características tecnológicas.",
+      "potencia": "161 hp",
+      "precio": "$25,500",
+      "imagen": "./img/hyundai-tucson-removebg-preview.png"
+    },
+    {
+      "id": "26",
+      "marca": "Hyundai",
+      "modelo": "Santa Fe",
+      "descripcion": "SUV familiar con espacio espacioso y tecnología avanzada.",
+      "potencia": "191 hp",
+      "precio": "$32,000",
+      "imagen": "./img/hyundai-santaFe.png"
+    },
+    {
+      "id": "12",
+      "marca": "Kia",
+      "modelo": "Seltos",
+      "descripcion": "SUV subcompacto con estilo atrevido y tecnología intuitiva.",
+      "potencia": "146 hp",
+      "precio": "$22,000",
+      "imagen": "./img/kia_seltos.png"
+    },
+    {
+      "id": "27",
+      "marca": "Kia",
+      "modelo": "Sportage",
+      "descripcion": "SUV crossover con diseño elegante y características avanzadas.",
+      "potencia": "181 hp",
+      "precio": "$26,500",
+      "imagen": "./img/kia-sportage.png"
+    },
+    {
+      "id": "13",
+      "marca": "Mazda",
+      "modelo": "CX-5",
+      "descripcion": "SUV con diseño elegante y dinámico, destacando la conducción deportiva.",
+      "potencia": "187 hp",
+      "precio": "$29,500",
+      "imagen": "./img/mazda-cx5-removebg-preview.png"
+    },
+    {
+      "id": "28",
+      "marca": "Mazda",
+      "modelo": "Mazda3",
+      "descripcion": "Sedán compacto con estilo moderno y tecnología innovadora.",
+      "potencia": "186 hp",
+      "precio": "$24,000",
+      "imagen": "./img/mazda-3.png"
+    },
+    {
+      "id": "14",
+      "marca": "Subaru",
+      "modelo": "Outback",
+      "descripcion": "SUV crossover con tracción en las cuatro ruedas y capacidad todoterreno.",
+      "potencia": "182 hp",
+      "precio": "$27,000",
+      "imagen": "./img/subaro-outback.png"
+    },
+    {
+      "id": "29",
+      "marca": "Subaru",
+      "modelo": "Forester",
+      "descripcion": "SUV compacto con diseño robusto y tecnología de seguridad avanzada.",
+      "potencia": "182 hp",
+      "precio": "$29,500",
+      "imagen": "./img/subaru-forester.png"
+    },
+    {
+      "id": "15",
+      "marca": "Lexus",
+      "modelo": "RX",
+      "descripcion": "SUV de lujo con un interior lujoso y tecnología avanzada de asistencia al conductor.",
+      "potencia": "295 hp",
+      "precio": "$52,000",
+      "imagen": "./img/lexus-rx.png"
+    },
+    {
+      "id": "30",
+      "marca": "Lexus",
+      "modelo": "NX",
+      "descripcion": "SUV compacto de lujo con diseño elegante y tecnología avanzada.",
+      "potencia": "235 hp",
+      "precio": "$45,500",
+      "imagen": "./img/lexus-NX.png"
+    }
+  ]
+}

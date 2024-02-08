@@ -1,0 +1,136 @@
+/* Estilos Generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+  }
+  /* Cabecera */
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  .producto-en-cesta {
+    justify-content: center;
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  
+ 
+  
+  .precio-producto {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+  
+  .btn-eliminar {
+    margin-top: 10px;
+  }
+  
+  /* Navegación */
+  nav {
+    background-color: rgb(255, 9, 9);
+    padding: 10px;
+  }
+  
+
+  main {
+    background-image: url(https://3.bp.blogspot.com/-GBmGlQTOVP4/U4IKbjJKnoI/AAAAAAACLYg/12z-O1_aeAw/s1600/a-10.gif);
+    background-repeat: no-repeat; /* Para que no se repita */
+    background-size: cover; /* Para que ocupe todo el espacio */
+    background-position: center; /* Para centrar la imagen */
+  }
+  
+
+  
+  /* Zona Principal */
+  main {
+    padding: 20px;
+  }
+  #carouselInner img {
+    width: 100%; /* Establece el ancho al 100% del contenedor para mantener el tamaño uniforme */
+    height: auto; /* Permite que la altura se ajuste proporcionalmente al ancho */
+    max-height: 500px; /* Puedes ajustar la altura máxima según tus preferencias */
+  }  
+  /* Pie de Página */
+  footer {
+
+    text-align: center;
+    padding: 10px;
+  }
+  footer a{
+    text-decoration: none;
+    width: 100%;
+  }
+  body {
+    font-family: sans-serif;
+  }
+  #banner-cookies {
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    resize: vertical;
+    overflow: auto;
+    z-index: 999999999;
+    background: rgba(0, 0, 0, 0.7);
+    display: none; /* Inicialmente oculto */
+  }
+
+  #banner-cookies .contenedor-cookies {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    right: 20px;
+    margin: -100px auto 0;
+    background: #fff;
+    padding: 20px;
+    max-width: 500px;
+  }
+
+  #banner-cookies .seleccion-cookies {
+    text-align: right;
+  }
+
+  #banner-cookies button {
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0 0 10px;
+    background: none;
+    font-size: 1.1em;
+  }
+
+  #banner-cookies button.aceptar-cookies {
+    background-color: #04aa6d;
+    color: #fff;
+  }
+
+  #banner-cookies button.aceptar-cookies:focus,
+  #banner-cookies button.aceptar-cookies:hover {
+    background-color: #059862;
+    cursor: pointer;
+  }
+
+  #banner-cookies button.denegar-cookies {
+    padding: 5px 0;
+    font-size: 0.9em;
+    opacity: 0.8;
+  }
+
+  #banner-cookies button.denegar-cookies:focus,
+  #banner-cookies button.denegar-cookies:hover {
+    opacity: 1;
+    cursor: pointer;
+  }
+
+  #banner-cookies hr {
+    margin: 15px 0;
+  }

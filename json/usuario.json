@@ -1,0 +1,6 @@
+[
+    { "nombreUsuario": "usuario1", "contraseña": "contraseña1" },
+    { "nombreUsuario": "usuario2", "contraseña": "contraseña2" },
+    { "nombreUsuario": "usuario3", "contraseña": "contraseña3" },
+    { "nombreUsuario": "angel", "contraseña": "123456" }
+  ]
